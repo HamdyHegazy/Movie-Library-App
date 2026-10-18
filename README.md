@@ -1,16 +1,28 @@
-# movie_library_app
+# 🎬 Movie Library App
 
-A new Flutter project.
+A movie library application that allows users to browse and explore movies through a clean, organized interface, with grid and list viewing options and a search feature for finding specific titles.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Grid View
+Browse movies in a visual grid layout.
 
-A few resources to get you started if this is your first Flutter project:
+![Movie Library - Grid View](assets/screenshots/grid.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### List View
+View movies in a structured list layout.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Movie Library - List View](assets/screenshots/list.jpg)
+
+### Search
+Search for movies and find specific titles easily.
+
+![Movie Library - Search](assets/screenshots/search.jpg)
+
+## ✨ Features
+
+- **Grid View:** Browse movies in a visual layout.
+- **List View:** Explore movies in a structured list.
+- **Movie Search:** Find movies using the search functionality.
+- **User-Friendly Interface:** Navigate the movie collection through an organized design.
+
